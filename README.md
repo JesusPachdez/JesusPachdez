@@ -34,7 +34,8 @@ Previous roles as a Student Software Developer and IT Support Technician at AT&T
   - *AT&T - Full-time*
   - Jul 2017 – Aug 2020 (Guadalajara, Jalisco, Mexico)
 
-    ## 📈 FamGenix Contributions
+
+## 📈 FamGenix Contributions
 
 Here’s a snapshot of my recent contribution activity for FamGenix:
 
