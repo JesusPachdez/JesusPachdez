@@ -38,7 +38,10 @@ Previous roles as a Student Software Developer and IT Support Technician at AT&T
 
 Here’s a snapshot of my recent contribution activity for FamGenix:
 
+**2024**
 ![FamGenix GitHub Contributions 2024](assets/github_contributions_2024.png)
+
+**2025**
 ![FamGenix GitHub Contributions 2025](assets/github_contributions_2025.png)
 
 ---
