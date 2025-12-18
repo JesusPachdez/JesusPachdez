@@ -47,8 +47,3 @@ Here’s a snapshot of my recent contribution activity for FamGenix:
 
 - LinkedIn: [Jesús Pacheco Valdez](https://www.linkedin.com/in/jes%C3%BAs-pacheco-valdez-174916172/)
 - Email: pacheco1290@gmail.com
-
----
-
-## ⚡ Fun Fact
-I combine technical expertise with a passion for learning and collaboration to create robust solutions that make a difference!
